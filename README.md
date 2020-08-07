@@ -20,10 +20,9 @@ Features considered:
 14) Bankruptcy in past
 
 # Data
-Loan Status Data
-Target Variable: Loan Status
-majority : miniority class = 78 : 22
-Evaluation Metric: Fbeta Score with Beta=0.2
+1) Target Variable: Loan Status
+2) majority : miniority class = 78 : 22
+3) Evaluation Metric: Fbeta Score with Beta=0.2
 
 # Scoring : Fbeta
 Fbeta is the Harmonic Mean of Recall and Precision.
